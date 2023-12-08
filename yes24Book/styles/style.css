@@ -15,6 +15,7 @@ main .leftContainer a img {}
 main .leftContainer a img span {}
 main .leftContainer p {}
 main .leftContainer p em {}
+main .leftContainer p a {}
 main .leftContainer p button {}
 main .leftContainer .orderBox {}
 main .leftContainer .orderBox a {}
